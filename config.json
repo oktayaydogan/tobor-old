@@ -1,6 +1,0 @@
-{ 
-  "token"  : "discord-token",
-  "youtube" : "youtube-token",
-  "giphy" : "giphy-token",
-  "prefix" : "+"
-}
